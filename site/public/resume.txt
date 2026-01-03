@@ -1,0 +1,56 @@
+Kanav Sharma
+Austin, TX | +1-602-481-7051 | ksharm53@asu.edu
+LinkedIn: https://www.linkedin.com/in/kanavsharma18/
+
+SUMMARY
+Backend engineer with experience designing and delivering scalable cloud-native systems at Oracle, Amazon, and Yahoo. Strong in Java/Python, distributed systems, and operational automation. Experienced with cloud platforms including OCI, AWS, and Azure.
+
+EDUCATION
+Arizona State University — M.S., Computer Software Engineering (Dec 2023)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Developer – Associate
+- Predix Certified Developer
+
+SELECTED EXPERIENCE
+- Oracle — Member of Technical Staff (Mar 2024 – Present), Austin, TX
+- Automated OCI datacenter rack decommissioning: candidate identification, customer-impact analysis, and migration orchestration for large-scale decomm operations.
+- Led SmartNIC upgrade automation, handling region/AD/shape filters, maintenance windows, and dynamic critical-customer exclusion.
+- Built Capacity Estimator to plan VM/bare-metal allocations and schedule decommissioning campaigns.
+
+Amazon — Software Development Engineer (Aug 2023 – Nov 2023), Seattle, WA
+- Led cross-locale normalization for product attributes; improved normalization coverage and processing efficiency for 2M+ variants.
+- Implemented a caching solution handling ~48k hits/sec to reduce latency.
+
+Yahoo! — Software Development Engineer (May 2023 – Aug 2023), Mountain View, CA
+- Built AMI sharing monitor with Slack integration; reduced issue resolution time and mitigated downtime risk.
+- Improved code quality and CI practices with Pytest, Pylint, and Screwdriver.
+
+ASU — Kids Camp Counsellor (May 2022 – Sep 2022), Tempe, AZ
+- Prioritized camper safety, organized activities, and created a welcoming environment for learners.
+
+TATA Consultancy Services — Software Development Engineer (Mar 2013 – Dec 2021), Budapest, Hungary
+- Developed outage-simulation and analytics tools for GE Power; improved maintenance scheduling and uptime.
+- Delivered backend services for Saudi MOH appointment system and other enterprise integrations.
+- Automated OCI datacenter rack decommissioning: candidate identification, customer-impact analysis, and migration orchestration for large-scale decomm operations.
+- Led SmartNIC upgrade automation, handling region/AD/shape filters, maintenance windows, and dynamic critical-customer exclusion.
+- Built Capacity Estimator to plan VM/bare-metal allocations and schedule decommissioning campaigns.
+
+Amazon — Software Development Engineer (Aug 2023 – Nov 2023), Seattle, WA
+- Led cross-locale normalization for product attributes; improved normalization coverage and processing efficiency for 2M+ variants.
+- Implemented a caching solution handling ~48k hits/sec to reduce latency.
+
+Yahoo! — Software Development Engineer Intern (May 2023 – Aug 2023), Mountain View, CA
+- Built AMI sharing monitor with Slack integration; reduced issue resolution time and mitigated downtime risk.
+- Improved code quality and CI practices with Pytest, Pylint, and Screwdriver.
+
+TATA Consultancy Services — Software Development Engineer (Mar 2013 – Dec 2021), Budapest, Hungary
+- Developed outage-simulation and analytics tools for GE Power; improved maintenance scheduling and uptime.
+- Delivered backend services for Saudi MOH appointment system and enterprise integrations.
+
+TECHNOLOGIES
+Java, Python, Spring Boot, Microservices, Docker, Kubernetes, AWS (S3, DynamoDB, Athena, Lambda), Oracle DB, SQL, Git, CI/CD
+
+LEADERSHIP & ACTIVITIES
+ASU Kids Camp Counsellor; TCS Squash Team Captain (inter-corporate tournaments)
